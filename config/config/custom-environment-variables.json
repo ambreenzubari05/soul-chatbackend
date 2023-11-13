@@ -1,0 +1,7 @@
+{
+  "jwtPrivateKey": "soulchat",
+
+  "mail": {
+    "password": "app_password"
+  }
+}
